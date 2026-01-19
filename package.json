@@ -5,7 +5,7 @@
   "dependencies": {
     "pug": "2.0.0-beta11",
     "http": "0.0.0",
-    "aws-sdk": "2.9.0",
+    "aws-sdk": "2.1693.0",
     "express": "4.14.0",
     "body-parser": "1.16.0",
     "querystring": "0.2.0"
